@@ -9,6 +9,7 @@ namespace laba2
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("изменения 1");
+            Console.WriteLine("изменения 2");
         }
     }
 }
