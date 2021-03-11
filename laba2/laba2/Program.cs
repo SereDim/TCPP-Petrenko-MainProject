@@ -11,6 +11,7 @@ namespace laba2
             Console.WriteLine("изменения 1");
             Console.WriteLine("изменения 2");
             Console.WriteLine("изменения через гитхаб");
+            onsole.WriteLine("Hello World! from browser");
         }
     }
 }
